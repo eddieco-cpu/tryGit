@@ -17,3 +17,8 @@ h1 {
   line-height: 1;
   font-size: 30px;
 }
+
+h2 {
+    font-weight: normal;
+    color: darkslategray;
+}
